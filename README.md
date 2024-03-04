@@ -1,2 +1,0 @@
-# blog
-welcome to blog
