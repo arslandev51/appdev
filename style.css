@@ -15,7 +15,7 @@ body{
    height: 100vh;
    display: flex;
    justify-content: center;
-   background-color: rgb(207, 201, 193);
+   /* background-color: rgb(2 07, 201, 193); */
    /* align-items: center; */
 }
 /* header{
@@ -31,6 +31,6 @@ body{
 }
 header .heading-desc {
     width: 75%;
-    font-size: 14px;
+    font-size: 12px;
     text-align: center;
 }
