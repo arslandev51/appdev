@@ -1,0 +1,6 @@
+1. why we add attribute in html for JavaScript
+2. animation attribute name in css
+3. addEventListener attribute names in JavaScript
+4. padding-inline vs padding-left in csss
+5. padding-block vs padding-top in css
+6.
