@@ -3,4 +3,5 @@
 3. addEventListener attribute names in JavaScript
 4. padding-inline vs padding-left in csss
 5. padding-block vs padding-top in css
-6.
+6. addEventOnElements in JavaScript
+7. 
