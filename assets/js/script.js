@@ -6,7 +6,7 @@ window.addEventListener("load", ()=>{
 // const activeMenu = document.querySelector("[data-header]");
 
 // add event on multiple elements
-const addEventOnElements  function (elements, eventType, callback){
+const addEventOnElements = function (elements, eventType, callback){
     for(let i=0, len=elements.lenght; i<len; i++){
         elements[i].addEventListener(eventType, callback);
     }
